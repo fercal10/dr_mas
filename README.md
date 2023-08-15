@@ -62,8 +62,3 @@ yarn dev
 ```
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=edge-middleware-eap) ([Documentation](https://nextjs.org/docs/deployment)).
-# dr-informacion
-# s_operacion
-# s_operacion
-# s_operacion
-# s_operacion
